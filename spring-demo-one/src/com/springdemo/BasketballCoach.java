@@ -7,4 +7,10 @@ public class BasketballCoach implements Coach {
 		return "Jump 30 minutes";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
